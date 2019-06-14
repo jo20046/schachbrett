@@ -71,7 +71,7 @@ CMAKE_BINARY_DIR = "/Users/jen/Desktop/FH/SS 19/Info2/CLionProjects FH/Poodle/8_
 CMakeFiles/schachbrett.dir/all:
 	$(MAKE) -f CMakeFiles/schachbrett.dir/build.make CMakeFiles/schachbrett.dir/depend
 	$(MAKE) -f CMakeFiles/schachbrett.dir/build.make CMakeFiles/schachbrett.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/Users/jen/Desktop/FH/SS 19/Info2/CLionProjects FH/Poodle/8_Graphen/schachbrett/cmake-build-debug/CMakeFiles" --progress-num=1,2,3,4 "Built target schachbrett"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/Users/jen/Desktop/FH/SS 19/Info2/CLionProjects FH/Poodle/8_Graphen/schachbrett/cmake-build-debug/CMakeFiles" --progress-num=1,2,3 "Built target schachbrett"
 .PHONY : CMakeFiles/schachbrett.dir/all
 
 # Include target in all.
@@ -81,7 +81,7 @@ all: CMakeFiles/schachbrett.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/schachbrett.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/jen/Desktop/FH/SS 19/Info2/CLionProjects FH/Poodle/8_Graphen/schachbrett/cmake-build-debug/CMakeFiles" 4
+	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/jen/Desktop/FH/SS 19/Info2/CLionProjects FH/Poodle/8_Graphen/schachbrett/cmake-build-debug/CMakeFiles" 3
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/schachbrett.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/jen/Desktop/FH/SS 19/Info2/CLionProjects FH/Poodle/8_Graphen/schachbrett/cmake-build-debug/CMakeFiles" 0
 .PHONY : CMakeFiles/schachbrett.dir/rule

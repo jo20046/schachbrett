@@ -70,47 +70,32 @@ CMakeFiles/schachbrett.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/schachbrett.dir/main.cpp.s"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/jen/Desktop/FH/SS 19/Info2/CLionProjects FH/Poodle/8_Graphen/schachbrett/main.cpp" -o CMakeFiles/schachbrett.dir/main.cpp.s
 
-CMakeFiles/schachbrett.dir/Graph.cpp.o: CMakeFiles/schachbrett.dir/flags.make
-CMakeFiles/schachbrett.dir/Graph.cpp.o: ../Graph.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/jen/Desktop/FH/SS 19/Info2/CLionProjects FH/Poodle/8_Graphen/schachbrett/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/schachbrett.dir/Graph.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/schachbrett.dir/Graph.cpp.o -c "/Users/jen/Desktop/FH/SS 19/Info2/CLionProjects FH/Poodle/8_Graphen/schachbrett/Graph.cpp"
+CMakeFiles/schachbrett.dir/Schachbrett.cpp.o: CMakeFiles/schachbrett.dir/flags.make
+CMakeFiles/schachbrett.dir/Schachbrett.cpp.o: ../Schachbrett.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/jen/Desktop/FH/SS 19/Info2/CLionProjects FH/Poodle/8_Graphen/schachbrett/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/schachbrett.dir/Schachbrett.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/schachbrett.dir/Schachbrett.cpp.o -c "/Users/jen/Desktop/FH/SS 19/Info2/CLionProjects FH/Poodle/8_Graphen/schachbrett/Schachbrett.cpp"
 
-CMakeFiles/schachbrett.dir/Graph.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/schachbrett.dir/Graph.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/jen/Desktop/FH/SS 19/Info2/CLionProjects FH/Poodle/8_Graphen/schachbrett/Graph.cpp" > CMakeFiles/schachbrett.dir/Graph.cpp.i
+CMakeFiles/schachbrett.dir/Schachbrett.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/schachbrett.dir/Schachbrett.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/jen/Desktop/FH/SS 19/Info2/CLionProjects FH/Poodle/8_Graphen/schachbrett/Schachbrett.cpp" > CMakeFiles/schachbrett.dir/Schachbrett.cpp.i
 
-CMakeFiles/schachbrett.dir/Graph.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/schachbrett.dir/Graph.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/jen/Desktop/FH/SS 19/Info2/CLionProjects FH/Poodle/8_Graphen/schachbrett/Graph.cpp" -o CMakeFiles/schachbrett.dir/Graph.cpp.s
-
-CMakeFiles/schachbrett.dir/Dijkstratabelle.cpp.o: CMakeFiles/schachbrett.dir/flags.make
-CMakeFiles/schachbrett.dir/Dijkstratabelle.cpp.o: ../Dijkstratabelle.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/jen/Desktop/FH/SS 19/Info2/CLionProjects FH/Poodle/8_Graphen/schachbrett/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/schachbrett.dir/Dijkstratabelle.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/schachbrett.dir/Dijkstratabelle.cpp.o -c "/Users/jen/Desktop/FH/SS 19/Info2/CLionProjects FH/Poodle/8_Graphen/schachbrett/Dijkstratabelle.cpp"
-
-CMakeFiles/schachbrett.dir/Dijkstratabelle.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/schachbrett.dir/Dijkstratabelle.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/jen/Desktop/FH/SS 19/Info2/CLionProjects FH/Poodle/8_Graphen/schachbrett/Dijkstratabelle.cpp" > CMakeFiles/schachbrett.dir/Dijkstratabelle.cpp.i
-
-CMakeFiles/schachbrett.dir/Dijkstratabelle.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/schachbrett.dir/Dijkstratabelle.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/jen/Desktop/FH/SS 19/Info2/CLionProjects FH/Poodle/8_Graphen/schachbrett/Dijkstratabelle.cpp" -o CMakeFiles/schachbrett.dir/Dijkstratabelle.cpp.s
+CMakeFiles/schachbrett.dir/Schachbrett.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/schachbrett.dir/Schachbrett.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/jen/Desktop/FH/SS 19/Info2/CLionProjects FH/Poodle/8_Graphen/schachbrett/Schachbrett.cpp" -o CMakeFiles/schachbrett.dir/Schachbrett.cpp.s
 
 # Object files for target schachbrett
 schachbrett_OBJECTS = \
 "CMakeFiles/schachbrett.dir/main.cpp.o" \
-"CMakeFiles/schachbrett.dir/Graph.cpp.o" \
-"CMakeFiles/schachbrett.dir/Dijkstratabelle.cpp.o"
+"CMakeFiles/schachbrett.dir/Schachbrett.cpp.o"
 
 # External object files for target schachbrett
 schachbrett_EXTERNAL_OBJECTS =
 
 schachbrett: CMakeFiles/schachbrett.dir/main.cpp.o
-schachbrett: CMakeFiles/schachbrett.dir/Graph.cpp.o
-schachbrett: CMakeFiles/schachbrett.dir/Dijkstratabelle.cpp.o
+schachbrett: CMakeFiles/schachbrett.dir/Schachbrett.cpp.o
 schachbrett: CMakeFiles/schachbrett.dir/build.make
 schachbrett: CMakeFiles/schachbrett.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/Users/jen/Desktop/FH/SS 19/Info2/CLionProjects FH/Poodle/8_Graphen/schachbrett/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable schachbrett"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/Users/jen/Desktop/FH/SS 19/Info2/CLionProjects FH/Poodle/8_Graphen/schachbrett/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable schachbrett"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/schachbrett.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

@@ -123,59 +123,32 @@ schachbrett/fast:
 	$(MAKE) -f CMakeFiles/schachbrett.dir/build.make CMakeFiles/schachbrett.dir/build
 .PHONY : schachbrett/fast
 
-Dijkstratabelle.o: Dijkstratabelle.cpp.o
+Schachbrett.o: Schachbrett.cpp.o
 
-.PHONY : Dijkstratabelle.o
-
-# target to build an object file
-Dijkstratabelle.cpp.o:
-	$(MAKE) -f CMakeFiles/schachbrett.dir/build.make CMakeFiles/schachbrett.dir/Dijkstratabelle.cpp.o
-.PHONY : Dijkstratabelle.cpp.o
-
-Dijkstratabelle.i: Dijkstratabelle.cpp.i
-
-.PHONY : Dijkstratabelle.i
-
-# target to preprocess a source file
-Dijkstratabelle.cpp.i:
-	$(MAKE) -f CMakeFiles/schachbrett.dir/build.make CMakeFiles/schachbrett.dir/Dijkstratabelle.cpp.i
-.PHONY : Dijkstratabelle.cpp.i
-
-Dijkstratabelle.s: Dijkstratabelle.cpp.s
-
-.PHONY : Dijkstratabelle.s
-
-# target to generate assembly for a file
-Dijkstratabelle.cpp.s:
-	$(MAKE) -f CMakeFiles/schachbrett.dir/build.make CMakeFiles/schachbrett.dir/Dijkstratabelle.cpp.s
-.PHONY : Dijkstratabelle.cpp.s
-
-Graph.o: Graph.cpp.o
-
-.PHONY : Graph.o
+.PHONY : Schachbrett.o
 
 # target to build an object file
-Graph.cpp.o:
-	$(MAKE) -f CMakeFiles/schachbrett.dir/build.make CMakeFiles/schachbrett.dir/Graph.cpp.o
-.PHONY : Graph.cpp.o
+Schachbrett.cpp.o:
+	$(MAKE) -f CMakeFiles/schachbrett.dir/build.make CMakeFiles/schachbrett.dir/Schachbrett.cpp.o
+.PHONY : Schachbrett.cpp.o
 
-Graph.i: Graph.cpp.i
+Schachbrett.i: Schachbrett.cpp.i
 
-.PHONY : Graph.i
+.PHONY : Schachbrett.i
 
 # target to preprocess a source file
-Graph.cpp.i:
-	$(MAKE) -f CMakeFiles/schachbrett.dir/build.make CMakeFiles/schachbrett.dir/Graph.cpp.i
-.PHONY : Graph.cpp.i
+Schachbrett.cpp.i:
+	$(MAKE) -f CMakeFiles/schachbrett.dir/build.make CMakeFiles/schachbrett.dir/Schachbrett.cpp.i
+.PHONY : Schachbrett.cpp.i
 
-Graph.s: Graph.cpp.s
+Schachbrett.s: Schachbrett.cpp.s
 
-.PHONY : Graph.s
+.PHONY : Schachbrett.s
 
 # target to generate assembly for a file
-Graph.cpp.s:
-	$(MAKE) -f CMakeFiles/schachbrett.dir/build.make CMakeFiles/schachbrett.dir/Graph.cpp.s
-.PHONY : Graph.cpp.s
+Schachbrett.cpp.s:
+	$(MAKE) -f CMakeFiles/schachbrett.dir/build.make CMakeFiles/schachbrett.dir/Schachbrett.cpp.s
+.PHONY : Schachbrett.cpp.s
 
 main.o: main.cpp.o
 
@@ -213,12 +186,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... schachbrett"
-	@echo "... Dijkstratabelle.o"
-	@echo "... Dijkstratabelle.i"
-	@echo "... Dijkstratabelle.s"
-	@echo "... Graph.o"
-	@echo "... Graph.i"
-	@echo "... Graph.s"
+	@echo "... Schachbrett.o"
+	@echo "... Schachbrett.i"
+	@echo "... Schachbrett.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

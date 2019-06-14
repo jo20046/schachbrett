@@ -82,16 +82,10 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/jen/Desktop/FH/SS 19/Info2/CLionProjects FH/Poodle/8_Graphen/schachbrett/Dijkstratabelle.cpp">
+		<Unit filename="/Users/jen/Desktop/FH/SS 19/Info2/CLionProjects FH/Poodle/8_Graphen/schachbrett/Schachbrett.cpp">
 			<Option target="schachbrett"/>
 		</Unit>
-		<Unit filename="/Users/jen/Desktop/FH/SS 19/Info2/CLionProjects FH/Poodle/8_Graphen/schachbrett/Dijkstratabelle.h">
-			<Option target="schachbrett"/>
-		</Unit>
-		<Unit filename="/Users/jen/Desktop/FH/SS 19/Info2/CLionProjects FH/Poodle/8_Graphen/schachbrett/Graph.cpp">
-			<Option target="schachbrett"/>
-		</Unit>
-		<Unit filename="/Users/jen/Desktop/FH/SS 19/Info2/CLionProjects FH/Poodle/8_Graphen/schachbrett/Graph.h">
+		<Unit filename="/Users/jen/Desktop/FH/SS 19/Info2/CLionProjects FH/Poodle/8_Graphen/schachbrett/Schachbrett.h">
 			<Option target="schachbrett"/>
 		</Unit>
 		<Unit filename="/Users/jen/Desktop/FH/SS 19/Info2/CLionProjects FH/Poodle/8_Graphen/schachbrett/main.cpp">
