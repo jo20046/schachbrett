@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/schachbrett.dir/main.cpp.o CMakeFiles/schachbrett.dir/Graph.cpp.o CMakeFiles/schachbrett.dir/Dijkstratabelle.cpp.o  -o schachbrett 
