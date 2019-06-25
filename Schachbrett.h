@@ -12,11 +12,15 @@ class Schachbrett {
 
 public:
     Schachbrett();
-    bool springer_erreicht_feld(int von_x, int von_y, int nach_x, int nach_y);
+    bool springer_erreicht_feld(int von, int nach);
+    void add_springer_verbindungen(int x, int y);
+
+    std::vector<std::vector<int>> springer_verbindungen_;
+    std::vector<std::vector<int>> springer_verbindungen();
+    std::vector<int> abs_to_pt(int abs);
 
 private:
     std::vector<std::vector<int>> schachbrett_;
-
 };
 
 

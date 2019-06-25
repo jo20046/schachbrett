@@ -3,4 +3,4 @@ project(schachbrett)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(schachbrett main.cpp Schachbrett.cpp Schachbrett.h)
+add_executable(schachbrett main.cpp Schachbrett.cpp Schachbrett.h Dijkstratabelle.cpp Dijkstratabelle.h)

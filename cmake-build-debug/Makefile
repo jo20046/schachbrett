@@ -123,6 +123,33 @@ schachbrett/fast:
 	$(MAKE) -f CMakeFiles/schachbrett.dir/build.make CMakeFiles/schachbrett.dir/build
 .PHONY : schachbrett/fast
 
+Dijkstratabelle.o: Dijkstratabelle.cpp.o
+
+.PHONY : Dijkstratabelle.o
+
+# target to build an object file
+Dijkstratabelle.cpp.o:
+	$(MAKE) -f CMakeFiles/schachbrett.dir/build.make CMakeFiles/schachbrett.dir/Dijkstratabelle.cpp.o
+.PHONY : Dijkstratabelle.cpp.o
+
+Dijkstratabelle.i: Dijkstratabelle.cpp.i
+
+.PHONY : Dijkstratabelle.i
+
+# target to preprocess a source file
+Dijkstratabelle.cpp.i:
+	$(MAKE) -f CMakeFiles/schachbrett.dir/build.make CMakeFiles/schachbrett.dir/Dijkstratabelle.cpp.i
+.PHONY : Dijkstratabelle.cpp.i
+
+Dijkstratabelle.s: Dijkstratabelle.cpp.s
+
+.PHONY : Dijkstratabelle.s
+
+# target to generate assembly for a file
+Dijkstratabelle.cpp.s:
+	$(MAKE) -f CMakeFiles/schachbrett.dir/build.make CMakeFiles/schachbrett.dir/Dijkstratabelle.cpp.s
+.PHONY : Dijkstratabelle.cpp.s
+
 Schachbrett.o: Schachbrett.cpp.o
 
 .PHONY : Schachbrett.o
@@ -186,6 +213,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... schachbrett"
+	@echo "... Dijkstratabelle.o"
+	@echo "... Dijkstratabelle.i"
+	@echo "... Dijkstratabelle.s"
 	@echo "... Schachbrett.o"
 	@echo "... Schachbrett.i"
 	@echo "... Schachbrett.s"

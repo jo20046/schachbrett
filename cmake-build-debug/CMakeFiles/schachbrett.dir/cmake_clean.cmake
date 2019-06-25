@@ -1,6 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/schachbrett.dir/main.cpp.o"
   "CMakeFiles/schachbrett.dir/Schachbrett.cpp.o"
+  "CMakeFiles/schachbrett.dir/Dijkstratabelle.cpp.o"
   "schachbrett.pdb"
   "schachbrett"
 )
